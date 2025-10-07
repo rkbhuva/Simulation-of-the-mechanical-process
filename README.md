@@ -1,7 +1,7 @@
 # Simulation of the Mechanical Process
 
-Developed and tested in **MATLAB R2024b**  
-Masters coursework for the subject **Simulations of Mechanical Process**,  
+- Developed and tested in **MATLAB R2024b**  
+- Masters coursework for the subject **Simulations of Mechanical Process**,  
 **Chair of Mechanical Process Engineering**,  
 **Otto-von-Guericke University Magdeburg, Germany (Winter Semester 2025)**  
 
