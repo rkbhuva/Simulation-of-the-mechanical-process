@@ -21,7 +21,7 @@ Simulation of the winnowing process using Euler and Runge–Kutta integration sc
 **Handin 2 — Monte Carlo Method**  
 Simulation of particle motion during winnowing using the Monte Carlo approach to model particle trajectories with random properties of particles.
 
-**Handin 3 — Particle Collision Models (DEM)**  
+**Handin 3 — Particle Collision Models**  
 Simulation of particle collisions using:
 - **Hard-sphere model** for ideal elastic collisions  
 - **Soft-sphere model (Discrete Element Method)** for realistic deformation and contact interactions
