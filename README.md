@@ -8,8 +8,8 @@ Masters coursework for the subject **Simulations of Mechanical Process**,
 ---
 
 ### 📘 Overview
-This repository contains simulation assignments focused on modeling mechanical processes such as winnowing and particle collisions using numerical and stochastic methods.
-This repository is for academic use as part of university coursework.
+- This repository contains simulation assignments focused on modeling mechanical processes such as winnowing and particle collisions using numerical and stochastic methods.
+- This repository is for academic use as part of university coursework.
 
 ---
 
