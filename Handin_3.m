@@ -119,7 +119,7 @@ for i = 1:N
     acceleration(i, :) = force(i, :) / m;
     
     % Predictor velocity for particle 2    
-    vp2(i, :) = v2(i, :) + dt * acceleration(i, :);
+    vp2(i+1, :) = v2(i, :) + dt * acceleration(i, :);
 
     % New position of particle 2 after time step    
     x2(i+1, :) = x2(i, :) + dt * vp2(i, :) + 0.5 * dt * dt * acceleration(i, :);
@@ -343,3 +343,4 @@ function [v1f, v2f] = collision(m1,m2, x1,x2, v1i,v2i, e)
         v2f = v2i - J/m2;
     end
 end
+
